@@ -92,7 +92,7 @@ h3{
 }
 .footer-text{
 	width: 463px;
-	padding-left: 240px;
-	padding-top: 30px;
+	margin-left: 240px;
+	margin-top: 30px;
 	color: white;
 }
