@@ -1,0 +1,98 @@
+header{
+	background-color: #0020F4;
+	width: 1920px;
+	height: 388px;
+}
+.logo{
+	margin-top: 40px;
+	margin-left: 240px;
+	width: 115px;
+	height: 65px;
+}
+.main-list{
+	margin-top: 20px;
+	margin-left: 240px;
+
+}
+header nav a{
+	color: white;
+	font-size: 30px;
+}
+.contact{
+	color: #0020F4;
+	background-color: white;
+	border-radius: 15px;
+	padding: 5px 10px;
+}
+section{
+	margin-top: -140px;
+}
+.main-img{
+	max-width: 1195px;
+	height: 600px;
+	width: 100%;
+/*	margin-top: -140px;*/
+	margin-left: 362px;
+	margin-right: 363px;
+}
+h1{
+	height: 33px;
+	width: 714px;
+	margin-top: 30px;
+	margin-left: 362px;
+	font-size: 28px;
+	color: #171717;
+}
+div{
+	margin-top: 60px;
+	margin-left: 362px;
+	margin-right: 363px;
+}
+div img{
+	margin-right: 25px;
+	max-width: 219px;
+	max-height: 219px;
+	margin-bottom: 60px;
+	width: 100%;
+}
+.img-five{
+	width: 219px;
+	height: 219px;
+	margin-right: 0px;
+}
+p{
+	width: 951px;
+	margin-bottom: 18px;
+	margin-left: 484.5px;
+	margin-right: 484.5px;
+	font-size: 16px;
+}
+.other-information{
+	margin-left: 790px;
+	margin-top: 40px;
+	margin-right: 789px;
+	color: #ffffff;
+	background-color: #0a22f4;
+	border-radius: 28px;
+	padding: 10px 20px;
+
+}
+footer{
+	background-color: #0A22F4;
+	width: 1920px;
+	height: 1080px;
+	margin-top: 58px;
+}
+h3{
+	width: 162px;
+	height: 38px;
+	margin-left: 240px;
+	margin-top: 275px;
+	color: white;
+}
+.footer-text{
+	width: 463px;
+	padding-left: 240px;
+	padding-top: 30px;
+	color: white;
+}
